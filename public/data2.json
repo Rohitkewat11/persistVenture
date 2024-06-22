@@ -1,0 +1,72 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "New York Post ",
+    "title": "Travis Scott arrested for disorderly intoxication and trespassing: officials - New York Post ",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzIwL3VzLW5ld3MvdHJhdmlzLXNjb3R0LWFycmVzdGVkLWZvci1kaXNvcmRlcmx5LWludG94aWNhdGlvbi1hbmQtdHJlc3Bhc3Npbmctb2ZmaWNpYWxzL9IBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-20T12:21:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "Giant Horned Lokiceratops: Remarkable New Dinosaur Unearthed in the Ancient Swamps of Montana - SciTechDaily",
+    "description": "Newly discovered Lokiceratops rangiformis is among the largest and most ornate horned dinosaur ever found, with two huge blade-like horns on the back of its frill. The newly discovered Lokiceratops rangiformis, a plant-eating dinosaur with unique, large blade…",
+    "url": "https://scitechdaily.com/giant-horned-lokiceratops-remarkable-new-dinosaur-unearthed-in-the-ancient-swamps-of-montana/",
+    "urlToImage": "https://scitechdaily.com/images/Lokiceratops-Artist-Rendering-Crop.jpg",
+    "publishedAt": "2024-06-20T12:00:31Z",
+    "content": "Reconstruction of Lokiceratops in the 78-million-year-old swamps of northern Montana, as two Probrachylophosaurus move past in the background. Credit: Fabrizio Lavezzi © Evolutionsmuseet, Knuthenborg… [+13767 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Louisiana orders Ten Commandments poster in every classroom - BBC.com",
+    "description": null,
+    "url": "https://admin.google.com/ServiceNotAllowed",
+    "urlToImage": null,
+    "publishedAt": "2024-06-20T11:34:40Z",
+    "content": "We are sorry, but you do not have access to Google News. Some reasons why you may not have access: \r\n<ul><li>Your account is managed by an organization that has this service turned off for its users.… [+306 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hindustan Times"
+    },
+    "author": "HT News Desk",
+    "title": "Over 1,000 Hajj pilgrims dead amid record-breaking heat in Saudi Arabia - Hindustan Times",
+    "description": "The death toll from this year's hajj crossed the 1,000 mark as Saudi Arabia continues to reel under sweltering heat. | World News",
+    "url": "https://www.hindustantimes.com/world-news/over-1-000-hajj-pilgrims-dead-amid-record-breaking-heat-in-saudi-arabia-101718878238454.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/20/1600x900/FILES-SAUDI-RELIGION-ISLAM-HAJJ-1_1718879370104_1718879400752.jpg",
+    "publishedAt": "2024-06-20T11:06:29Z",
+    "content": "As sweltering heat continues to prevail in parts of Asia, an AFP tally suggests that over 1,000 people have died during this year's hajj in Saudi Arabia. The report showed that more than half of thos… [+2246 chars]"
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Anna Washenko",
+    "title": "From Infocom to 80 Days: An oral history of text games and interactive fiction - Ars Technica",
+    "description": "MUDs, Usenet, and open source all play a part in 50 years of IF history.",
+    "url": "https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/45897016062_e1c52b1dd9_k-760x380.jpg",
+    "publishedAt": "2024-06-20T11:00:44Z",
+    "content": "Enlarge/ Zork running on an Amiga at the Computerspielemuseum in Berlin, Germany.\r\n22\r\nYou are standing at the end of a road before a small brick building.\r\nThat simple sentence first appeared on a P… [+3444 chars]"
+    }
+    ]
+    }
+    
