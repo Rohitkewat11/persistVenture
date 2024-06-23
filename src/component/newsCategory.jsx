@@ -21,10 +21,8 @@ function NewsCategory() {
     };
 
    useEffect(()=>{
-    axios
-    .get(
-        `http://newsapi.org/v2/top-headlines?apiKey=5d75c27138a9491cbcd4ff38f9ebd30f&q=${searchTopic.topic}`
-      )
+    //  .get(`https://newsapi.org/v2/top-headlines?apiKey=5d75c27138a9491cbcd4ff38f9ebd30f&q=${searchTopic.topic}`)
+    axios.get("https://fakestoreapi.com/products")
       .then((res) =>
           setNews(
           res.data.articles.map((item) => {
