@@ -23,7 +23,7 @@ function NewsCategory() {
    useEffect(()=>{
     axios
     .get(
-        `https://newsapi.org/v2/top-headlines?apiKey=5d75c27138a9491cbcd4ff38f9ebd30f&q=${searchTopic.topic}`
+        `http://newsapi.org/v2/top-headlines?apiKey=5d75c27138a9491cbcd4ff38f9ebd30f&q=${searchTopic.topic}`
       )
       .then((res) =>
           setNews(
